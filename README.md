@@ -32,17 +32,10 @@ Detailed analysis of transaction amounts categorized by transaction types, merch
 
 ---
 
-### Combined PDF version
-You can also view or download all dashboard screenshots as a single multi-page PDF document:
-👉 **[Dashboard_Screenshots.pdf](./Dashboard_Screenshots.pdf)**
-
----
-
 ## Project Structure
 
 - **`Execution Dashboard.pbix`**: The interactive Power BI report file containing the visualization models.
 - **`Bank_Transaction_Fraud_Detection.csv`**: The underlying transaction dataset (68 MB) containing transaction details and fraud labels.
-- **`Dashboard_Screenshots.pdf`**: Combined multi-page PDF containing screenshots of all dashboard tabs.
 - **`dashboard screenshots/`**: Folder containing individual JPEG screenshots of each dashboard tab.
 - **`SQLQuery 1.sql` & `SQLQuery 2.sql`**: SQL Server scripts used for data staging, KPI calculations, and exploratory queries.
 
