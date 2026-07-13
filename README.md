@@ -34,10 +34,12 @@ Detailed analysis of transaction amounts categorized by transaction types, merch
 
 ## Project Structure
 
+- **`Initial_Data_Exploration.sql`**: SQL Server script for initial data staging and exploratory query analysis.
+- **`Fraud_Analysis_Queries.sql`**: SQL Server script containing detailed query formulations for fraud detection.
 - **`Bank_Fraud_Detection_Dashboard.pbix`**: The interactive Power BI report file containing the visualization models.
 - **`Bank_Transaction_Fraud_Detection.csv`**: The underlying transaction dataset (68 MB) containing transaction details and fraud labels.
 - **`dashboard screenshots/`**: Folder containing individual JPEG screenshots of each dashboard tab.
-- **`Initial_Data_Exploration.sql` & `Fraud_Analysis_Queries.sql`**: SQL Server scripts used for data staging, KPI calculations, and exploratory queries.
+- **`README.md`**: Project documentation showcasing screenshots, files, and project insights.
 
 ## Key Insights from SQL Queries
 The SQL files include queries that help extract:
