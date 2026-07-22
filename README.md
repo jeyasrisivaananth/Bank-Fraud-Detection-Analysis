@@ -10,25 +10,25 @@ Below are the screenshots of the interactive dashboard pages, covering executive
 
 ### 1. Executive Dashboard
 An overview of high-level KPIs, including total transaction volume, total fraud count, average transaction balance, and daily fraud trends.
-![Executive Dashboard](./dashboard%20screenshots/Execution%20Dashboard.jpeg)
+![Executive Dashboard](./dashboard%20screenshots/Execution%20Dashboard.png)
 
 ---
 
 ### 2. Fraud Analysis
 Deep dive into geographic distribution of fraud, fraud count by transaction device, top cities by fraud count, and highest-risk merchants.
-![Fraud Analysis](./dashboard%20screenshots/Fraud%20Analysis%20Dashboard.jpeg)
+![Fraud Analysis](./dashboard%20screenshots/Fraud%20Analysis%20Dashboard.png)
 
 ---
 
 ### 3. Customer Analysis
 Profiles of high-risk customers, top customers by account balance, and transaction distributions by age group and gender.
-![Customer Analysis](./dashboard%20screenshots/Customer%20Analysis%20Dashboard.jpeg)
+![Customer Analysis](./dashboard%20screenshots/Customer%20Analysis%20Dashboard.png)
 
 ---
 
 ### 4. Transaction Analysis
 Detailed analysis of transaction amounts categorized by transaction types, merchant categories, devices used, and branch performance.
-![Transaction Analysis](./dashboard%20screenshots/Transaction%20Analysis%20Dashboard.jpeg)
+![Transaction Analysis](./dashboard%20screenshots/Transaction%20Analysis%20Dashboard.png)
 
 ---
 
